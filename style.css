@@ -1,0 +1,24 @@
+/*style.css*/
+.background {
+    background-color: black;
+}
+div {
+    text-align: center;
+}
+
+a, p, li, h2, h3, h4 {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 900px;
+    height: 750px;
+}
+.format {
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
